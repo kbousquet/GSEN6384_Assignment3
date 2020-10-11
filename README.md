@@ -1,4 +1,3 @@
-# Limitations of Self-Reported Obesity Data
 Kathryn Bousquet  
 GSEN 6384  
 Assignment 3

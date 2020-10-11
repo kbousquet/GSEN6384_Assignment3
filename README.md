@@ -1,10 +1,9 @@
+# Limitations of Self-Reported Obesity Data
 Kathryn Bousquet
-GSEN 6384 
+GSEN 6384
 Assignment 3
 
-# Limitations of Self-Reported Obesity Data
-
-![image](https://user-images.githubusercontent.com/72675497/95689314-7a233780-0bd5-11eb-9abb-4d89547cba9c.png)
+![image](https://user-images.githubusercontent.com/72675497/95689631-acce2f80-0bd7-11eb-9b6e-a797c76f9c56.png)
 
 The following is an interactive map where you can click on individual states to see obesity percentages, total population over the age of 18, sample size, and percentage of the total population that the sample size represents.
 

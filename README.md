@@ -3,7 +3,7 @@ Kathryn Bousquet
 GSEN 6384  
 Assignment 3
 
-![image](https://user-images.githubusercontent.com/72675497/95689718-5b727000-0bd8-11eb-8f2a-aa6f8ef1076f.png)
+![image](https://user-images.githubusercontent.com/72675497/95693376-9a60ef80-0bf1-11eb-824c-1379cea49e35.png)
 
 
 <p align="center">

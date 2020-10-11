@@ -3,14 +3,14 @@ Kathryn Bousquet
 GSEN 6384  
 Assignment 3
 
-<center><![image](https://user-images.githubusercontent.com/72675497/95689718-5b727000-0bd8-11eb-8f2a-aa6f8ef1076f.png)></center>
+![image](https://user-images.githubusercontent.com/72675497/95689718-5b727000-0bd8-11eb-8f2a-aa6f8ef1076f.png)
 
 
 <p align="center">
   <iframe width="916" height="566" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnUCZcPM0SNIQneX63LM0b_CsqGkqUPJzLeq-TiFur6-ZtKN75kQ3AuY6PJKBkonEAohOtVdb4pykg/pubchart?oid=929191022&amp;format=interactive"></iframe>
 </p>
 
-<center><![image](https://user-images.githubusercontent.com/72675497/95692313-94b3db80-0bea-11eb-96fe-eb5388bf39bd.png)></center>
+![image](https://user-images.githubusercontent.com/72675497/95692313-94b3db80-0bea-11eb-96fe-eb5388bf39bd.png)
 
 In the following interactive map, you can click on different states to see their individual data:
 

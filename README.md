@@ -1,4 +1,4 @@
-Kathryn Bousquet
+Kathryn Bousquet  
 GSEN 6384  
 Assignment 3
 

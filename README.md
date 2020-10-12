@@ -1,7 +1,7 @@
 Kathryn Bousquet  
 GSEN 6384  
-Assignment 3
-
+Assignment 3<br><br>
+The purpose of my data story is to show the alarmingly high rates of adult obesity across the United States, using obesity data from the Behavioral Risk Factor Surveillance System survey (BRFSS). I was specifically looking for obesity-related data, because my graduate project revolves around the high obesity rate in Corpus Christi and I wanted to explore the topic on a broader level.<br><br>
 ![image](https://user-images.githubusercontent.com/72675497/95693376-9a60ef80-0bf1-11eb-824c-1379cea49e35.png)
 
 
@@ -15,7 +15,6 @@ The following map is interactive. You can click on each on state to see their in
 
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="GSEN6384 Assignment 3" src="//tamucc.maps.arcgis.com/apps/Embed/index.html?webmap=832d3a6c46d84d32a1d7d7de9d03709a&extent=-180,12.8626,-53.4394,64.7214&zoom=false&previewImage=false&scale=false&disable_scroll=false&theme=light"></iframe></div>
 <br><br>
-The purpose of my data story is to show the alarmingly high rates of adult obesity across the United States, using obesity data from the Behavioral Risk Factor Surveillance System survey (BRFSS). I was specifically looking for obesity-related data, because my graduate project revolves around the high obesity rate in Corpus Christi and I wanted to explore the topic on a broader level.<br><br>
 ### Data Sources:   
 Percent of Adults Aged 18 Years and Older who have Obesity: CDC Behavioral Risk Factor Surveillance System (BRFSS)  
 https://www.cdc.gov/nccdphp/dnpao/data-trends-maps/index.html<br><br>
